@@ -1,0 +1,6 @@
+framework module LNLeaksFinder {
+  umbrella header "LNLeaksFinder.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,218 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/vvusu/Library/Developer/Xcode/DerivedData/VVUSU-fyzglugavxkazlajnyopkgqluzdr/Build/Products/Debug-iphonesimulator/LNLeaksFinder.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BaseType.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/Parser/BaseType.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBAssociationManager+Internal.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Associations/Internal/FBAssociationManager+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBAssociationManager.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Associations/FBAssociationManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBBlockInterface.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Blocks/FBBlockInterface.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBBlockStrongLayout.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Blocks/FBBlockStrongLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBBlockStrongRelationDetector.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Blocks/FBBlockStrongRelationDetector.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBClassStrongLayout.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/FBClassStrongLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBClassStrongLayoutHelpers.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/FBClassStrongLayoutHelpers.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBIvarReference.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/Reference/FBIvarReference.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBNodeEnumerator.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Detector/FBNodeEnumerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBObjectGraphConfiguration.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Graph/FBObjectGraphConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBObjectInStructReference.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/Reference/FBObjectInStructReference.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBObjectReference.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/Reference/FBObjectReference.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBObjectiveCBlock.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Graph/FBObjectiveCBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBObjectiveCGraphElement+Internal.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Graph/Internal/FBObjectiveCGraphElement+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBObjectiveCGraphElement.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Graph/FBObjectiveCGraphElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBObjectiveCNSCFTimer.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Graph/Specialization/FBObjectiveCNSCFTimer.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBObjectiveCObject.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Graph/FBObjectiveCObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBRetainCycleDetector+Internal.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Detector/FBRetainCycleDetector+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBRetainCycleDetector.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Detector/FBRetainCycleDetector.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBRetainCycleUtils.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/FBRetainCycleUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBStandardGraphEdgeFilters.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Filtering/FBStandardGraphEdgeFilters.h"
+        },
+        {
+          'type': 'file',
+          'name': "FBStructEncodingParser.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/Parser/FBStructEncodingParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "LNLeaksFinder-Swift.h",
+          'external-contents': "/Users/vvusu/Library/Developer/Xcode/DerivedData/VVUSU-fyzglugavxkazlajnyopkgqluzdr/Build/Products/Debug-iphonesimulator/LNLeaksFinder.framework/Headers/LNLeaksFinder-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "LNLeaksFinder.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/LNLeaksFinder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MLeakedObjectProxy.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/MLeakedObjectProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "MLeaksFinder.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/MLeaksFinder.h"
+        },
+        {
+          'type': 'file',
+          'name': "MLeaksMessenger.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/MLeaksMessenger.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MemoryLeak.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/NSObject+MemoryLeak.h"
+        },
+        {
+          'type': 'file',
+          'name': "Struct.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/Parser/Struct.h"
+        },
+        {
+          'type': 'file',
+          'name': "Type.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/Parser/Type.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIApplication+MemoryLeak.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/UIApplication+MemoryLeak.h"
+        },
+        {
+          'type': 'file',
+          'name': "UINavigationController+MemoryLeak.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/UINavigationController+MemoryLeak.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIPageViewController+MemoryLeak.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/UIPageViewController+MemoryLeak.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISplitViewController+MemoryLeak.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/UISplitViewController+MemoryLeak.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITabBarController+MemoryLeak.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/UITabBarController+MemoryLeak.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+MemoryLeak.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/UIView+MemoryLeak.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+MemoryLeak.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/MLeaksFinder/UIViewController+MemoryLeak.h"
+        },
+        {
+          'type': 'file',
+          'name': "fishhook.h",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/LNLeaksFinder/FBRetainCycleDetector/fishhook/fishhook.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/vvusu/Library/Developer/Xcode/DerivedData/VVUSU-fyzglugavxkazlajnyopkgqluzdr/Build/Products/Debug-iphonesimulator/LNLeaksFinder.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/vvusu/Documents/GitHub/LNMySDK/LNLeaksFinder/build/LNLeaksFinder.build/Debug-iphonesimulator/LNLeaksFinder.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
