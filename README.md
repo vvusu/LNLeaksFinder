@@ -1,7 +1,10 @@
 # LNLeaksFinder
 
 # iOS_内存泄漏
-为了测试内存泄漏方便，找到一个微信阅读团队开源的框架，[MLeaksFinder](https://wereadteam.github.io/2016/02/22/MLeaksFinder/),为了项目的开发方便我封装了一下变成一个Framework，[LNLeaksFinder](https://github.com/wedxz/LNLeaksFinder)。还有一个框架[PLeakSniffer](http://mrpeak.cn/blog/leak/)实现方法不同，但效果相同。
+为了测试内存泄漏方便，封装了一个Framework。
+相识框架
+微信阅读团队开源的框架[MLeaksFinder](https://wereadteam.github.io/2016/02/22/MLeaksFinder/)
+[PLeakSniffer](http://mrpeak.cn/blog/leak/)实现方法不同，但效果相同。
 
 使用的时候直接导入Framework就可以，而且只在debug下开启, 真机会报错误，请删处Framework。
 
